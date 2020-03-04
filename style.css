@@ -1,0 +1,302 @@
+*{
+margin:0;
+padding:0;
+}
+
+header{
+	width:960px;
+	margin:0 auto;
+}
+
+.menubar{
+	background:#0A1015;
+
+}
+.menubar ul{
+	text-align:center;
+}
+.menubar ul li {
+	list-style:none;
+	display:inline-block;
+	position:relative;
+}
+
+.menubar ul li a{
+	text-decoration:none;
+	color:#FFFFFF;
+	display:block;
+	padding:20px 37px;
+	font-size:24px;
+	text-transform:uppercase;
+	}
+	
+.menubar ul li a:hover{
+	background:#3973DE;
+	color:white;
+	
+}
+
+.menubar ul li ul{
+	
+	position:absolute;
+	background:#0A1015;
+	display:none;
+}
+
+.menubar ul li:hover ul{
+	display:block;
+}
+
+.img{
+	
+	height:60vh;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.text{
+	
+	text-align:center;
+	padding:102px 40px;
+}
+
+
+	
+.about{
+		margin-top:10px;
+		height:280px;
+	background:#D6FFFF
+	
+}
+
+.omg {
+	float:left;
+	
+	padding:10px 30px;
+}
+
+.omg img{
+	width:320px;
+	height:200px;
+	box-shadow:5px 5px 10px #000;
+	margin-bottom:20px;
+	margin-left:0px;
+	border-radius:15px;
+}
+
+.lekha{
+	text-align:center;
+}
+
+.title{
+	margin-left:380px;
+	text-align:center;
+	width:200px;
+}
+
+.title h2{
+	border-bottom:2px solid orange;
+	font-size:25px;
+	font-family:aqua;
+	padding-top:20px;
+	text-transform:uppercase;
+}
+
+.lekha h3{
+	font-size:20px;
+	text-transform:uppercase;
+	padding:10px 30px;
+}
+.lekha p{
+	padding:20px;
+	font-size:15px;
+	line-height:20px;
+	color:gray;
+}
+
+.footer{
+	background:#E8E8FF;
+	float:left;
+	text-align:center;
+	margin-bottom:15px;
+	
+}
+.clear{
+	clear:both;
+}
+
+.footer-title{
+	text-align:center;
+	
+	width:300px;
+	margin-left:350px;
+	padding-bottom:20px;
+}
+.footer-title h2{
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+	padding-top:20px;
+	font-family:aqua;
+	border-bottom:2px solid orange;
+}
+.footer-title-end{
+	
+	width:270px;
+	border:2px solid black;
+	margin:10px 20px;
+	display:inline-block;
+	border-radius:15px;
+}
+.service{
+
+	padding:10px 20px;
+
+}
+.service-icon i{
+	font-size:40px;
+	color:white;
+	margin-top:10px;
+	margin-bottom:40px;
+	text-align:center;
+}
+.service-icon i:hover{
+	
+	color:#FF3686;
+}
+.lekhalikhi{
+	text-align:center;
+}
+
+.lekhalikhi p{
+	font-size:15px;
+	color:gray;
+}
+
+.lasttask{
+	
+	
+ 
+}
+.contact{
+	
+	background-image:url("33.jpg");
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+	text-align:center;
+	}
+	
+.style{
+	background-image:cover;
+	
+	
+	
+}
+.contactus{
+	margin-left:380px;
+	width:200px;
+	font-family:aqua;
+	text-transform:uppercase;
+	font-size:20px;
+	font-weight:bold;
+	color:#0F151C;
+	padding:20px;
+}
+.contactus h2{
+	
+border-bottom:2px solid orange;
+}
+
+.contacta{
+	padding:10px;
+	border-radius:15px;
+	background:white;
+	width:250px;
+	margin:10px 20px;
+	display:inline-block;
+	height:auto;
+	border:2px solid black;
+}
+.contacticon{
+	background:white;
+	float:left;
+}
+
+.contacticon i{
+	font-size:35px;
+	
+	padding:10px;
+	margin:0px 10px;
+}
+
+.contacticon i:hover{
+	color:yellow;
+	;
+}
+
+.contacttext{
+	background:white;
+}
+
+.userform{
+	height:auto;
+	margin:0 auto;
+	margin-top:10px;
+}
+
+.formthing{
+	padding:10px;
+	margin:10px 0px;
+	
+	
+}
+
+
+.formthing input{
+	border-radius:15px;
+	border:2px solid black;
+	padding:10px 50px;
+	font-size:15px;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+
+.formthing p{
+	font-size:18px;
+	color:#70AE67;
+	padding:10px;
+}
+
+.formthing textarea{
+	border-radius:15px;
+	border:2px solid black;
+}
+
+.submit{
+	
+}
+	
+.submit button{
+	border-radius:15px;
+	
+	text-align:center;
+	text-transform:uppercase;
+	font-size:25px;
+	padding:10px 20px;
+	
+}
+
+.submit button:hover{
+	background:#FF3F8C;;
+	color:white;
+}
+
+
+
+
+
+
+	
+
